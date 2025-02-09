@@ -36,9 +36,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Python, Pandas, Seaborn, Matplotlib.
 
-**Results:**
-
-
 
 ## Education
 University of Maryland, Baltimore County: 
