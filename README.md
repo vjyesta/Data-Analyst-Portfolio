@@ -17,3 +17,34 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Walmart Analysis]()
   - Power BI
   
+
+
+- [Education]()  
+- [Contact]()
+
+## Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Tesla Sales Analysis
+**Code:** [`Tesla_Sales_Analysis.ipynb`]()
+
+**Goal:**  To analyze Tesla's sales performance and identify key factors driving its growth.
+
+**Description:** The project focused on analyzing Tesla's sales data between 2022 and 2024. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA).
+
+**Skills:** data cleaning, data analysis, data visualization.
+
+**Technology:** Python, Pandas, Seaborn, Matplotlib.
+
+**Results:**
+
+
+
+## Education
+University of Maryland, Baltimore County: 
+Master of Science - MS, Data Science,
+Dec 2020 - May 2021
+
+## Contacts
+- LinkedIn: [@vjyesta]()
+- Email: vjyesta@outlook.com
