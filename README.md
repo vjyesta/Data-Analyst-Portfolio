@@ -15,8 +15,10 @@ This is a repository to showcase skills, share projects and track my progress in
 
   - SQL
     - [Walmart Analysis]()
+      
   - Power BI
-  
+
+  - Product Case Studies
 
 
 - [Education]()  
