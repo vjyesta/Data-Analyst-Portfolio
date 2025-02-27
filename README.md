@@ -73,15 +73,15 @@ Bachelors Degree - BS, Electronics,
 Jun 2012 - Jun 2016
 
 ## Certifications 
-Python Data Associate - DataCampDataCamp
+Python Data Associate - DataCamp
 Issued Feb 2025
 Credential ID PDA0012604459958
 
-Associate Data Analyst- DataCampDataCamp
+Associate Data Analyst- DataCamp
 Issued Feb 2025
 Credential ID DAA0014998451339
 
-AI Fundamentals - DataCampDataCamp
+AI Fundamentals - DataCamp
 Issued Feb 2025
 Credential ID AIF0029218172496
 
