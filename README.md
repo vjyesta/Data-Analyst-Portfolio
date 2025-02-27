@@ -68,6 +68,23 @@ University of Maryland, Baltimore County:
 Master of Science - MS, Data Science,
 Dec 2020 - May 2021
 
+Gitam Univeristy
+Bachelors Degree - BS, Electronics,
+Jun 2012 - Jun 2016
+
+## Certifications 
+Python Data Associate - DataCampDataCamp
+Issued Feb 2025
+Credential ID PDA0012604459958
+
+Associate Data Analyst- DataCampDataCamp
+Issued Feb 2025
+Credential ID DAA0014998451339
+
+AI Fundamentals - DataCampDataCamp
+Issued Feb 2025
+Credential ID AIF0029218172496
+
 ## Contacts
 - LinkedIn: [@vjyesta](https://www.linkedin.com/in/vishnu-priya-jyesta/)
 - Email: vjyesta@outlook.com
