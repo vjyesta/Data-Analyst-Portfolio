@@ -11,24 +11,24 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About]()
 - [Portfolio Projects]()
   - Python
-    - [Analyzing Tesla Sales]()
+    - [Analyzing Tesla Sales](https://github.com/vjyesta/Portfolio-Projects/blob/main/Tesla_Analysis.ipynb)
 
   - SQL
-    - [Walmart Analysis]()
+    - [Walmart Analysis](https://github.com/vjyesta/Portfolio-Projects/blob/main/Inventory%20Control%20Management%20Walmart.docx)
       
   - Power BI
 
   - Product Case Studies
-
+    - [Product_ABTesting](https://github.com/vjyesta/Portfolio-Projects/blob/main/Product_ABTesting.ipynb)
 
 - [Education]()  
-- [Contact]()
+- [Contact](vjyesta@outlook.com)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Tesla Sales Analysis
-**Code:** [`Tesla_Sales_Analysis.ipynb`]()
+**Code:** [`Tesla_Sales_Analysis.ipynb`](https://github.com/vjyesta/Portfolio-Projects/blob/main/Tesla_Analysis.ipynb)
 
 **Goal:**  To analyze Tesla's sales performance and identify key factors driving its growth.
 
@@ -38,6 +38,30 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Python, Pandas, Seaborn, Matplotlib.
 
+### Product AB Testing
+**Code:** [`Product_ABTesting.ipynb`](https://github.com/vjyesta/Portfolio-Projects/blob/main/Product_ABTesting.ipynb)
+
+**Goal:**  To evaluate the impact of Buy Now Pay Later Offerings.
+
+**Description:** The aim of this A/B Testing project for Buy Now Pay Later (BNPL) is to evaluate the impact of BNPL offerings on user behavior and business metrics. The key objectives include:
+    - Assessing Conversion Rate
+    - Evaluating Average Order Value (AOV) Changes
+    - Analyzing User Behavior by Segments
+
+**Skills:** data cleaning, data analysis, data visualization.
+
+**Technology:** Python, Pandas, T Test, Z Test , Chi-Square Test.
+
+### Inventory Control Management with SQL
+**Code:** [`Inventory Control Management Walmart.docx`](https://github.com/vjyesta/Portfolio-Projects/blob/main/Inventory%20Control%20Management%20Walmart.docx)
+
+**Goal:**  To explore the role of inventory control management in retail for ensuring smooth operations and profitability.
+
+**Description:** For this project, I chose the Walmart sales dataset, which offered a treasure trove of information: sales data spanning from 2010 to 2012, macroeconomic indicators like CPI, weather conditions, and even holiday data. With SQL as my tool of choice to uncovering patterns and insights that could help any retailer optimize their inventory planning
+
+**Skills:** SQL
+
+**Technology:** MY SQL.
 
 ## Education
 University of Maryland, Baltimore County: 
@@ -45,5 +69,6 @@ Master of Science - MS, Data Science,
 Dec 2020 - May 2021
 
 ## Contacts
-- LinkedIn: [@vjyesta]()
+- LinkedIn: [@vjyesta](https://www.linkedin.com/in/vishnu-priya-jyesta/)
 - Email: vjyesta@outlook.com
+- Medium: [@vjyesta](https://medium.com/@vishnujyesta)
