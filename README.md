@@ -85,6 +85,14 @@ AI Fundamentals - DataCamp
 Issued Feb 2025
 Credential ID AIF0029218172496
 
+AI Fundamentals - DataCamp
+Issued Feb 2025
+Credential ID AIF0029218172496
+
+Master Certified Fraud Examiner (CFE) Essential Training - Udemy
+Issued Mar 2025
+Credential ID UC-73a7b835-9c1c-440c-b90f-70656c5f21e8
+
 ## Contacts
 - LinkedIn: [@vjyesta](https://www.linkedin.com/in/vishnu-priya-jyesta/)
 - Email: vjyesta@outlook.com
